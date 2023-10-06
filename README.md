@@ -1,1 +1,2 @@
 # My-Portfolio-Website.
+I design this portfolio website as a frontend developer. I selected this job post because people are working with software has increased and I can give a valuable service for them. In this portfolio website, my details and qualifications are displayed and the custormers  can asked any questions from me. The customer should input the questions and some details. I can some those details anytime and also provide answers through the website. I used Javascript and css to create this website as a user friendly website. 
